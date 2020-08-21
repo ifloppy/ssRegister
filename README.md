@@ -25,27 +25,23 @@
 
 本程序前三行:
 
-> import requests
-
-> import random
-
-> import string
+  import requests
+  import random
+  import string
 
 若提示有缺失的库，请在Linux的终端中执行:
-> pip install (库的名称)
+pip install (库的名称)
 
 ### 测试环境
 
 作者在边写这个脚本时使用的环境是这样的:
 
-> $python --version
+  $python --version
+  Python 3.7.4
 
-> Python 3.7.4
 
-
-> cat /etc/issue
-
-> Ubuntu 18.04.2 LTS \n \l
+  cat /etc/issue
+  Ubuntu 18.04.2 LTS \n \l
 
 ## 鸣谢
 
