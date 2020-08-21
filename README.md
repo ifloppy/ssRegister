@@ -35,14 +35,14 @@ pip install (库的名称)
 ### 测试环境
 
 作者在边写这个脚本时使用的环境是这样的:
-``
+```
 $python --version
 Python 3.7.4
 
 
 $cat /etc/issue
 Ubuntu 18.04.2 LTS \n \l
-``
+```
 ## 鸣谢
 
 本程序参考了自动签到的脚本:https://github.com/zhjc1124/ssr_autocheckin/blob/master/main.py
