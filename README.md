@@ -46,3 +46,9 @@ Ubuntu 18.04.2 LTS \n \l
 ## 鸣谢
 
 本程序参考了自动签到的脚本:https://github.com/zhjc1124/ssr_autocheckin/blob/master/main.py
+
+## 我的技术可能永远都做不出来的功能
+
+1 破解人机验证
+
+2 没了
